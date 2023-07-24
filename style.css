@@ -177,6 +177,7 @@ h3 {
   gap: 4px;
   padding: 0;
 }
+
 .card-title {
   width: 90%;
   height: 36px;
@@ -475,6 +476,7 @@ h3 {
   background-repeat: no-repeat;
   background-position: right;
 }
+
 .contact-form-inner {
   display: grid;
   grid-template-rows: 56px 159px 395px;
@@ -505,7 +507,7 @@ h3 {
   line-height: 28px;
   letter-spacing: 0;
   text-align: center;
-  width:90%;
+  width: 90%;
   color: rgba(235, 235, 255, 1);
 }
 
